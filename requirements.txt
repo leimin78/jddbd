@@ -1,6 +1,6 @@
 certifi==2017.7.27.1
 chardet==3.0.4
-Django==1.11.6
+Django==1.11.28
 idna==2.6
 image==1.5.16
 lxml==4.0.0
