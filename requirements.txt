@@ -9,4 +9,4 @@ Pillow==4.3.0
 pytz==2017.2
 requests==2.18.4
 selenium==3.6.0
-urllib3==1.22
+urllib3==1.26.5
